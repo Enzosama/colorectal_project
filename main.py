@@ -1,7 +1,7 @@
-from evaluate import evaluate_model
+from Evaluate import evaluate_model
 
 # Đường dẫn mô hình và dữ liệu
-model_path = "/Volumes/Home/Desktop/ML/env/Model_ML/Model/Train_4/colorectal_segmentation_model (3).pth"
+model_path = "/Volumes/Home/Desktop/ML/env/Model_ML/Model/Train_6/colorectal_segmentation_model (6).pth"
 image_dir = "/Volumes/Home/Desktop/ML/env/Model_ML/EBHI-SEG/Polyp/image"
 mask_dir = "/Volumes/Home/Desktop/ML/env/Model_ML/EBHI-SEG/Polyp/label"
 
